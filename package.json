@@ -1,0 +1,20 @@
+{
+  "name": "clothes-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node-sass project/src/scss -w -o project/src/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dekxside/clothes-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dekxside/clothes-store/issues"
+  },
+  "homepage": "https://github.com/dekxside/clothes-store#readme"
+}
